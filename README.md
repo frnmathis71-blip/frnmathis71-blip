@@ -7,7 +7,7 @@ Je conçois et développe des sites web et des applications sur mesure pour les 
 En parallèle, je suis en 2e année de **BTS SIO option SLAM** au Lycée Mathias.
 
 [![Site](https://img.shields.io/badge/codenyr.fr-1f5eff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codenyr.fr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0b1324?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.codenyr.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3b82ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.codenyr.fr)
 [![E-mail](https://img.shields.io/badge/contact@codenyr.fr-55607a?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@codenyr.fr)
 
 ---
